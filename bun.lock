@@ -1,0 +1,15 @@
+{
+  "lockfileVersion": 2,
+  "configVersion": 0,
+  "workspaces": {
+    "": {
+      "name": "stamps-technical-test",
+      "dependencies": {
+        "dotenv": "^16.0.3",
+      },
+    },
+  },
+  "packages": {
+    "dotenv": ["dotenv@16.6.1", "", {}, "sha512-uBq4egWHTcTt33a72vpSG0z3HnPuIl6NqYcTrKEg2azoEyl2hpW0zqlxysq2pK9HlDIHyHyakeYaYnSAwd8bow=="],
+  }
+}

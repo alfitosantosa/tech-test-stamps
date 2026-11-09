@@ -1,0 +1,16 @@
+{
+  "name": "stamps-technical-test",
+  "version": "1.0.0",
+  "description": "Technical test solutions for Stamps",
+  "main": "index.js",
+  "scripts": {
+    "foobar": "node function/foobarTest.js",
+    "weather": "node function/weather.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
